@@ -13,6 +13,7 @@ class ViewController1: UIViewController {
         super.viewDidLoad()
         print("testing")
         print("Hi Anmol Kaisa hai??")
+        print("bas tu bta")
         // Do any additional setup after loading the view.
     }
     
